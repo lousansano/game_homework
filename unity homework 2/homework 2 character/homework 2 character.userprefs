@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/character_move.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/vectorfun.cs">
     <Files>
-      <File FileName="Assets/scripts/ending.cs" Line="15" Column="11" />
-      <File FileName="Assets/scripts/character_move.cs" Line="32" Column="31" />
+      <File FileName="Assets/vectorfun.cs" Line="22" Column="1" />
+      <File FileName="Assets/scripts/ending.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/character_move.cs" Line="1" Column="1" />
+      <File FileName="Assets/tenprint.cs" Line="1" Column="1" />
+      <File FileName="Assets/vectorfun.cs" Line="10" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -28,6 +28,9 @@ public class character_move : MonoBehaviour {
 				moveDirection *= speed;
 //			if (Input.GetKey(KeyCode.W))
 //				transform.Rotate(Vector3.right * Time.deltaTime);
+			// *Time.deltaTime will create framerate independence
+
+			transform.Rotate (0f, Input.GetAxis ("Mouse X") * Time.deltaTime * 10f, 0f);
 
 		if (Input.GetButton("Jump"))
 				moveDirection.y = jumpSpeed;
