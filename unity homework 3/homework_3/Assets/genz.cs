@@ -8,7 +8,8 @@ public class genz : MonoBehaviour {
 	public GameObject thing_2Prefab;
 	public GameObject thing_3Prefab;
 	public GameObject thing_4Prefab;
-	public GameObject thing_5Prefab;
+	public GameObject thing
+		_5Prefab;
 
 	// Use this for initialization
 	void Start () {
